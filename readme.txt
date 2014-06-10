@@ -16,6 +16,8 @@ The Subscriber plugin is an exclusive add-on for the Sender Plugin by BestWebSof
 
 http://www.youtube.com/watch?v=ytjxGd4hXDU
 
+<a href="http://www.youtube.com/watch?v=YJOQSGXPjRY" target="_blank">Video instruction on Installation</a>
+
 <a href="http://wordpress.org/plugins/subscriber/faq/" target="_blank">FAQ</a>
 
 <a href="http://support.bestwebsoft.com" target="_blank">Support</a>
@@ -54,6 +56,10 @@ Also, emails which are reporting about plugin's bugs are accepted for investigat
 1. Upload the `subscriber` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Plugin settings are located in 'BWS Plugins', 'Subscriber'.
+
+<a href="https://docs.google.com/document/d/1c3snoIZgS1e9AgYjps19HJ-cIhDLACMPiqfduH5tAaw/edit" target="_blank">View a Step-by-step Instruction on Subscriber Installation</a>.
+
+http://www.youtube.com/watch?v=YJOQSGXPjRY
 
 == Frequently Asked Questions ==
 
