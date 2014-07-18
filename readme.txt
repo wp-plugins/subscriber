@@ -8,7 +8,7 @@ Stable tag: 1.1.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-This plugin allows you to subscribe users for newsletters from your website.
+This plugin allows you to subscribe users for newsletters from your website. 
 
 == Description ==
 
