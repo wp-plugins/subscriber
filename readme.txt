@@ -13,7 +13,7 @@ This plugin allows you to subscribe users for newsletters from your website.
 == Description ==
 
 The Subscriber plugin is an exclusive add-on for the Sender Plugin by BestWebSoft.
-This plugin allows your site visitors to subscribe for newsletters, coming from your website. It is a simple and effevtive tool for businessmen as well as for those people who just want to share their ideas with others. Moreover, it has minimum settings but maximum feedback.
+This plugin allows your site visitors to subscribe for newsletters, coming from your website. It is a simple and effective tool for businessmen as well as for those people who just want to share their ideas with others. Moreover, it has minimum settings but maximum feedback.
 
 http://www.youtube.com/watch?v=ytjxGd4hXDU
 
