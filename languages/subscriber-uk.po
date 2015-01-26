@@ -1,0 +1,792 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscriber\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 19:24+0300\n"
+"PO-Revision-Date: 2015-01-22 19:25+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft Team <wp@bestwebsoft.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n%10==1 && n%100!=11) ? 3 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../subscriber.php:84
+msgid "Subscriber"
+msgstr "Subscriber"
+
+#: ../subscriber.php:85
+#: ../subscriber.php:2218
+msgid "Subscribers"
+msgstr "Підписники"
+
+#: ../subscriber.php:108
+msgid "Mail Subscriber"
+msgstr "Підписник"
+
+#: ../subscriber.php:166
+#: ../subscriber.php:840
+#: ../subscriber.php:886
+#: ../subscriber.php:1606
+msgid "E-mail"
+msgstr "Електронна пошта"
+
+#: ../subscriber.php:167
+#: ../subscriber.php:841
+#: ../subscriber.php:887
+msgid "unsubscribe"
+msgstr "відписатися"
+
+#: ../subscriber.php:168
+#: ../subscriber.php:842
+#: ../subscriber.php:888
+#: ../subscriber.php:1660
+#: ../subscriber.php:1730
+msgid "Subscribe"
+msgstr "Підписатися"
+
+#: ../subscriber.php:170
+msgid "Error while your request. Please try later."
+msgstr "Під час запиту виникла помилка. Будь ласка, спробуйте пізніше."
+
+#: ../subscriber.php:171
+msgid "Please, enter e-mail."
+msgstr "Будь ласка, введіть вашу електронну адресу."
+
+#: ../subscriber.php:172
+msgid "Please, enter valid e-mail."
+msgstr "Будь ласка, введіть правильну електронну адресу."
+
+#: ../subscriber.php:173
+msgid "No user with this e-mail."
+msgstr "Користувача з такою електронною адресою не існує."
+
+#: ../subscriber.php:174
+msgid "Cannot get data about this e-mail. Please try later."
+msgstr "Неможливо отримати дані з введеної електронної адреси. Будь ласка, спробуйте пізніше."
+
+#: ../subscriber.php:175
+msgid "Cannot send message to your e-mail. Please try later."
+msgstr "Неможливо відправити повідомлення на вашу адресу електронної пошти. Будь ласка, спробуйте пізніше."
+
+#: ../subscriber.php:176
+msgid "Sorry, but during registration an error occurred. Please try later."
+msgstr "Вибачте, але під час реєстрації виникла помилка. Будь ласка, спробуйте пізніше."
+
+#: ../subscriber.php:177
+msgid "Thanks for subscribing for our newsletter. Check your mail."
+msgstr "Дякуємо за підписку на нашу розсилку. Перевірте вашу пошту."
+
+#: ../subscriber.php:178
+msgid "User with this e-mail is already subscribed to the newsletter."
+msgstr "Користувач з такою електронною адресою уже підписався на розсилку."
+
+#: ../subscriber.php:179
+msgid "Sorry, but your request to subscribe for the newsletter has been denied. Please contact the site administration."
+msgstr "Вибачте, але вам відмовлено у підписці на розсилку. Будь ласка, зв’яжіться з адміністрацією сайту."
+
+#: ../subscriber.php:180
+msgid "User with this e-mail already has unsubscribed from the newsletter."
+msgstr "Користувач з такою електронною адресою уже відписався від розсилки."
+
+#: ../subscriber.php:181
+msgid "Please check your email."
+msgstr "Будь ласка, перевірте вашу електронну пошту."
+
+#: ../subscriber.php:182
+msgid "The user does not exist."
+msgstr "Користувача не існує."
+
+#: ../subscriber.php:183
+msgid "You have successfully unsubscribed from the newsletter."
+msgstr "Ви успішно відписалися від розсилки."
+
+#: ../subscriber.php:191
+msgid "New subscriber"
+msgstr "Новий підписник"
+
+#: ../subscriber.php:192
+msgid "Thanks for registration"
+msgstr "Дякуємо за реєстрацію"
+
+#: ../subscriber.php:193
+msgid "Link to unsubscribe"
+msgstr "Посилання для відмови від розсилки"
+
+#: ../subscriber.php:195
+msgid "User with e-mail {user_email} has subscribed to a newsletter."
+msgstr "Користувач з електронною адресою {user_email} підписався на розсилку."
+
+#: ../subscriber.php:196
+msgid ""
+"Thanks for registration. To change data of your profile go to {profile_page}.\n"
+"If you want to unsubscribe from the newsletter from our site go to the link\n"
+"{unsubscribe_link}"
+msgstr ""
+"Дякуємо за реєстрацію. Щоб змінити дані свого профілю, перейдіть за посиланням {profile_page}.\n"
+"Якщо ви хочете відписатись від розсилки, будь ласка, перейдіть за вказаним посиланням\n"
+"{unsubscribe_link}"
+
+#: ../subscriber.php:197
+msgid ""
+"Dear user. At your request, we send you a link to unsubscribe from emails of our site. To unsubscribe please use the link below. If you change your mind, you can just ignore this letter.\n"
+"Link to unsubscribe:\n"
+"{unsubscribe_link}"
+msgstr ""
+"Шановний користувач. Згідно Вашого запиту, ми надсилаємо вам посилання, щоб відмовитись від розсилки з нашого сайту. Щоб відписатись, просто перейдіть за посиланням нижче. Якщо ви передумали, проігноруйте цей лист.\n"
+"Посилання для відмови від розсилки:\n"
+"{unsubscribe_link}"
+
+#: ../subscriber.php:199
+msgid ""
+"If you want to unsubscribe from the newsletter from our site go to the following link:\n"
+"{unsubscribe_link}"
+msgstr ""
+"Щоб відписатись, просто перейдіть за посиланням нижче:\n"
+"{unsubscribe_link}"
+
+#: ../subscriber.php:281
+msgid "requires"
+msgstr "вимагає"
+
+#: ../subscriber.php:281
+msgid "or higher, that is why it has been deactivated! Please upgrade WordPress and try again."
+msgstr "або вище, ось чому його було деактивовано! Будь ласка, оновите WordPress та спробуйте ще раз."
+
+#: ../subscriber.php:281
+msgid "Back to the WordPress"
+msgstr "Повернутися на WordPress на"
+
+#: ../subscriber.php:281
+msgid "Plugins page"
+msgstr "Сторінку плагінів"
+
+#: ../subscriber.php:378
+msgid "Such a user does not exist. Settings are not saved."
+msgstr "Такого користувача не існує. Налаштування не збережено."
+
+#: ../subscriber.php:385
+msgid "Please enter a valid email address in the 'FROM' field. Settings are not saved."
+msgstr "Будь ласка, введіть правильну адресу в поле \"Від\". Налаштування не збережено."
+
+#: ../subscriber.php:412
+msgid "Settings Saved"
+msgstr "Налаштування збережено."
+
+#: ../subscriber.php:422
+#: ../subscriber.php:454
+msgid "Wrong license key"
+msgstr "Невірний ліцензійний ключ"
+
+#: ../subscriber.php:447
+msgid "Something went wrong. Try again later. If the error will appear again, please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</a>. We are sorry for inconvenience."
+msgstr "Щось не так, спробуйте ще раз. Якщо помилка повториться, будь ласка, повідомте нам <a href=http://support.bestwebsoft.com>BestWebSoft</a>. Приносимо вибачення за незручності."
+
+#: ../subscriber.php:456
+msgid "This license key is bind to another site"
+msgstr "Ліцензійний ключ прив'язано до іншого сайту"
+
+#: ../subscriber.php:458
+msgid "This license key is valid, but Your license has expired. If you want to use our plugin in future, you should extend the license."
+msgstr "Ліцензійний ключ вірний, але термін його дії вичерпано. Якщо ви хочете отримувати оновлення у майбутньому, будь ласка, продовжте ліцензію."
+
+#: ../subscriber.php:460
+msgid "Unfortunately, you have exceeded the number of available tries. Please, upload the plugin manually."
+msgstr "На жаль, Ви перевищили кількість доступних спроб на день. Будь ласка, завантажте плагін вручну."
+
+#: ../subscriber.php:477
+msgid "Failed to open the zip archive. Please, upload the plugin manually"
+msgstr "Виникли проблеми під чаз розпакування zip-архіву. Будь ласка, завантажте плагін вручну."
+
+#: ../subscriber.php:483
+msgid "Your server does not support either ZipArchive or Phar. Please, upload the plugin manually"
+msgstr "Ваш сервер не підтримує ані ZipArchive, ані Phar. Будь ласка, завантажте плагін вручну"
+
+#: ../subscriber.php:487
+#: ../subscriber.php:497
+msgid "Failed to download the zip archive. Please, upload the plugin manually"
+msgstr "Виникли проблеми під час завантаження zip-архіву. Будь ласка, завантажте архів вручну"
+
+#: ../subscriber.php:501
+msgid "Something went wrong. Try again later or upload the plugin manually. We are sorry for inconvienience."
+msgstr "Виникли певні проблеми. Спробуйте ще раз пізніше або завантажте плагін вручну. Просимо вібачення за незручності."
+
+#: ../subscriber.php:520
+msgid "Please, enter Your license key"
+msgstr "Будь ласка, впишіть ваш ліцензійний ключ"
+
+#: ../subscriber.php:526
+msgid "Subscriber Settings"
+msgstr "Налаштування плагіну Subscriber"
+
+#: ../subscriber.php:528
+#: ../subscriber.php:2292
+#: ../subscriber.php:2309
+msgid "Settings"
+msgstr "Налаштування"
+
+#: ../subscriber.php:529
+#: ../subscriber.php:2310
+msgid "FAQ"
+msgstr "Розповсюджені питання"
+
+#: ../subscriber.php:530
+msgid "Go PRO"
+msgstr "Перейти на PRO версію"
+
+#: ../subscriber.php:533
+msgid "Notice:"
+msgstr "Зауважте:"
+
+#: ../subscriber.php:533
+msgid "The plugin's settings have been changed. In order to save them please don't forget to click the 'Save Changes' button."
+msgstr "Налаштування плагіну змінено. Щоб їх зберегти, не забудьте натиснути \"Зберегти зміни\"."
+
+#: ../subscriber.php:536
+msgid "If you would like to add the Subscribe Form to your website, just copy and paste this shortcode to your post, page or widget:"
+msgstr "Якщо ви хочете додати форму підписки на ваш сайт, просто вставте цей шорткод у Ваш запис, сторінку чи віджет:"
+
+#: ../subscriber.php:536
+msgid "or you can use Subscriber Form Registation Widget."
+msgstr "або Ви можете використовувати віджет \"Форма реєстрації Subscriber\"."
+
+#: ../subscriber.php:540
+msgid "Subscribe form labels"
+msgstr "Ярлики для форми підписки"
+
+#: ../subscriber.php:543
+msgid "Text above the subscribe form"
+msgstr "Текст над формою підписки"
+
+#: ../subscriber.php:546
+msgid "Placeholder for text field"
+msgstr "Підпис до текстового поля"
+
+#: ../subscriber.php:549
+msgid "Label for \"unsubscribe\" checkbox"
+msgstr "Підпис для чекбоксу \"відписатись\""
+
+#: ../subscriber.php:552
+msgid "Label for \"submit\" button"
+msgstr "Підпис для кнопки \"відправити\""
+
+#: ../subscriber.php:556
+msgid "Service messages"
+msgstr "Службові повідомлення"
+
+#: ../subscriber.php:558
+#: ../subscriber.php:634
+msgid "Show"
+msgstr "Показати"
+
+#: ../subscriber.php:559
+#: ../subscriber.php:635
+msgid "Hide"
+msgstr "Сховати"
+
+#: ../subscriber.php:562
+msgid "These messages will be displayed in the frontend of your site."
+msgstr "Ці повідомлення будуть відображатись у фронтенді Вашого сайту."
+
+#: ../subscriber.php:571
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+#: ../subscriber.php:574
+msgid "If user has not entered e-mail"
+msgstr "Якщо користувач не ввів емейл"
+
+#: ../subscriber.php:577
+msgid "If user has entered invalid e-mail"
+msgstr "Якщо користувач ввів неправильний емейл"
+
+#: ../subscriber.php:580
+msgid "If the user has entered a non-existent e-mail"
+msgstr "Якщо користувач ввів неіснуючий емейл"
+
+#: ../subscriber.php:583
+msgid "If it is impossible to get the data about the entered e-mail"
+msgstr "Якщо неможливо отримати дані про введений емейл"
+
+#: ../subscriber.php:586
+msgid "If it is impossible to send a letter"
+msgstr "Якщо неможливо надіслати листа"
+
+#: ../subscriber.php:589
+msgid "If some errors occurred while user registration"
+msgstr "Якщо під час реєстрації виникли якісь помилки"
+
+#: ../subscriber.php:592
+msgid "If user registration was succesfully finished"
+msgstr "Якщо реєстрація була успішно завершена"
+
+#: ../subscriber.php:595
+msgid "If the user has already subscribed"
+msgstr "Якщо користувач уже підписався"
+
+#: ../subscriber.php:598
+msgid "If subscription has been denied"
+msgstr "Якщо користувачу відмовлено у підписці"
+
+#: ../subscriber.php:601
+msgid "If the user has already unsubscribed"
+msgstr "Якщо користувач уже відписався"
+
+#: ../subscriber.php:604
+msgid "If the user has been sent a letter with a link to unsubscribe"
+msgstr "Якщо користувачу було надіслано листа з посиланням для відмови від підписки"
+
+#: ../subscriber.php:607
+msgid "If user was unsubscribed"
+msgstr "Якщо користувач був відписаний"
+
+#: ../subscriber.php:610
+msgid "If the user clicked on a non-existent \"unsubscribe\"-link"
+msgstr "Якщо користувач клікнув на неіснуюче посилання \"відписатись\""
+
+#: ../subscriber.php:614
+msgid "The user on whose behalf letters to subscribers will be sent"
+msgstr "Користувач, від імені якого будуть надсилатись листи"
+
+#: ../subscriber.php:622
+msgid "The name of the user to be used in the 'From' field."
+msgstr "Ім'я користувача, що буде використовуватись у полі \"Від\"."
+
+#: ../subscriber.php:625
+msgid "This text will be used in the 'FROM' field."
+msgstr "Текст, що буде використовуватись у полі \"Від\"."
+
+#: ../subscriber.php:628
+msgid "This email address will be used in the 'From' field."
+msgstr "Цей емейл буде використувуватись у полі \"Від\"."
+
+#: ../subscriber.php:632
+msgid "Letters content"
+msgstr "Контент листів"
+
+#: ../subscriber.php:638
+msgid "You can edit the content of service letters, which will be sent to users. In the text of the message you can use the following shortcodes:"
+msgstr "Ви можете відредагувати зміст службових листів. В тексті повідомлення Ви можете використовувати наступні шорткоди:"
+
+#: ../subscriber.php:640
+msgid "this shortcode will be replaced with the e-mail of a current user;"
+msgstr "цей шорткод буде замінено на адресу поточного користувача;"
+
+#: ../subscriber.php:641
+msgid "this shortcode will be replaced with the link to profile page of current user;"
+msgstr "цей шорткод буде замінено посиланням на сторінку редагування профілю користувача;"
+
+#: ../subscriber.php:642
+msgid "this shortcode will be replaced with the link to unsubscribe."
+msgstr "цей шорткод буде замінено посиланням для відмови від розсилки."
+
+#: ../subscriber.php:649
+msgid "Message to admin about new subscribed users"
+msgstr "Повідомити адміністратора про нових підписників"
+
+#: ../subscriber.php:652
+#: ../subscriber.php:662
+#: ../subscriber.php:672
+msgid "Subject:"
+msgstr "Тема:"
+
+#: ../subscriber.php:655
+#: ../subscriber.php:665
+#: ../subscriber.php:675
+msgid "Text:"
+msgstr "Текст:"
+
+#: ../subscriber.php:659
+msgid "Message to subscribed users"
+msgstr "Повідомлення для підписників"
+
+#: ../subscriber.php:669
+msgid "Message with unsubscribe link"
+msgstr "Повідомлення з посиланням для відмови від розсилки"
+
+#: ../subscriber.php:679
+msgid "Text to be attached to letters"
+msgstr "Текст, що буде прикріплено до листів"
+
+#: ../subscriber.php:683
+msgid "This text will be attached to each letter of the mailing, which was created with Sender plugin by BestWebsoft."
+msgstr "Цей текст буде прикріплено до кожного листа розсилки, що була створена плагіном Sender від компанії BestWebSoft."
+
+#: ../subscriber.php:687
+msgid "Delete users while plugin removing"
+msgstr "Видалити користувачів під час деінсталяції"
+
+#: ../subscriber.php:690
+msgid "If this option enabled, when you remove plugin, all users with role \"Mail Subscribed\" will be removed from users list."
+msgstr "Якщо цю опцію увімкнено, то під час видаленна плагіну всі користувачі з роллю \"Підписник\" будуть видалені."
+
+#: ../subscriber.php:694
+msgid "Add captcha to the form"
+msgstr "Додати captcha до форми"
+
+#: ../subscriber.php:698
+#: ../subscriber.php:700
+#: ../subscriber.php:703
+msgid "powered by"
+msgstr "розроблено компанією"
+
+#: ../subscriber.php:700
+msgid "Activate captcha"
+msgstr "Активувати captcha"
+
+#: ../subscriber.php:703
+msgid "Download captcha"
+msgstr "Завантажити captcha"
+
+#: ../subscriber.php:713
+msgid "Add to the subscribe form"
+msgstr "Додати до форми підписки"
+
+#: ../subscriber.php:715
+msgid "\"Unsubscribe\" checkbox"
+msgstr "Чекбокс \"відписатись\""
+
+#: ../subscriber.php:722
+msgid "Unlock premium options by upgrading to a PRO version."
+msgstr "Зробити доступними преміум-опції, перейшовши на PRO версію."
+
+#: ../subscriber.php:723
+#: ../subscriber.php:2374
+msgid "Learn More"
+msgstr "Докладніше"
+
+#: ../subscriber.php:726
+msgid "Go"
+msgstr "Перейти на"
+
+#: ../subscriber.php:732
+msgid "If you want to send mailout to the users who have subscribed for newsletters use"
+msgstr "Якщо ви хочете, щоб підписані користувачі отримували розсилку, встановіть плагін"
+
+#: ../subscriber.php:732
+msgid "that sends mail to registered users. There is also a premium version of the plugin"
+msgstr "що посилає пошту для зареєстрованих користувачів. Крім того, ознайомтесь із Pro версією плагіну"
+
+#: ../subscriber.php:732
+msgid "allowing to create and save templates for letters, edit the content of messages with a visual editor TinyMce, set priority оf mailing, create and manage mailing lists."
+msgstr "що дозволяє створювати та зберігати шаблони листів, редагувати їх контент за допомогою редактора TinyMce, налаштовувати пріорітетність, а також створювати та управляти списками розсилки."
+
+#: ../subscriber.php:736
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: ../subscriber.php:749
+msgid "Congratulations! The PRO version of the plugin is successfully download and activated."
+msgstr "Вітаємо! PRO версію плагіну успішно завантажено та активовано."
+
+#: ../subscriber.php:751
+msgid "Please, go to"
+msgstr "Будь ласка, перейдіть на"
+
+#: ../subscriber.php:751
+msgid "the setting page"
+msgstr "сторінку установок"
+
+#: ../subscriber.php:752
+msgid "You will be redirected automatically in 5 seconds."
+msgstr "Вас буде перенаправлено автоматично через 5 секунд."
+
+#: ../subscriber.php:757
+msgid "You can download and activate"
+msgstr "Ви можете завантажити та активувати"
+
+#: ../subscriber.php:759
+msgid "version of this plugin by entering Your license key."
+msgstr "версію цього плагіну, якщо впишете ваш ліцензійний ключ."
+
+#: ../subscriber.php:761
+msgid "You can find your license key on your personal page Client area, by clicking on the link"
+msgstr "Ви можете знайти ваш ліцензійний ключ на вашій персональній сторінці у Client area, перейшовши за посиланням"
+
+#: ../subscriber.php:763
+msgid "(your username is the email you specify when purchasing the product)."
+msgstr "(ваше ім'я - це емейл, що ви вказували при покупці продукту)."
+
+#: ../subscriber.php:771
+#: ../subscriber.php:781
+msgid "Activate"
+msgstr "Активувати"
+
+#: ../subscriber.php:774
+msgid "Unfortunately, you have exceeded the number of available tries per day. Please, upload the plugin manually."
+msgstr "На жаль, Ви перевищили кількість доступних спроб на день. Будь ласка, завантажте плагін вручну."
+
+#: ../subscriber.php:790
+msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+msgstr "Якщо вам сподобався плагін, будь ласка, поставте нам 5 зірочок на WordPress"
+
+#: ../subscriber.php:791
+msgid "Rate the plugin"
+msgstr "Оцінити плагін"
+
+#: ../subscriber.php:794
+msgid "If there is something wrong about it, please contact us"
+msgstr "Якщо виникли проблеми, будь ласка, повідомте нам"
+
+#: ../subscriber.php:814
+msgid "Subscriber Form Registation"
+msgstr "Форма Реєстрації Підписника"
+
+#: ../subscriber.php:815
+msgid "Displaying the registration form for newsletter subscribers."
+msgstr "Відображати форму реєстрації для підписників."
+
+#: ../subscriber.php:892
+msgid "Widget Title:"
+msgstr "Назва віджету:"
+
+#: ../subscriber.php:898
+msgid "Text above the subscribe form:"
+msgstr "Текст над формою підписки:"
+
+#: ../subscriber.php:904
+msgid "Placeholder for text field:"
+msgstr "Підпис для текстового поля:"
+
+#: ../subscriber.php:910
+msgid "Label for \"unsubscribe\" checkbox:"
+msgstr "Підпис для чекбоксу \"відписатись\":"
+
+#: ../subscriber.php:916
+msgid "Label for \"submit\" button:"
+msgstr "Підпис для кнопки \"відправити\":"
+
+#: ../subscriber.php:923
+msgid "apply plugin settings"
+msgstr "застосувати налаштування плагіну"
+
+#: ../subscriber.php:1058
+#: ../subscriber.php:1061
+#: ../subscriber.php:1064
+msgid "Please complete the CAPTCHA."
+msgstr "Будь ласка, заповніть CAPTCHA."
+
+#: ../subscriber.php:1324
+msgid ""
+"\n"
+"Your login:"
+msgstr ""
+"\n"
+"Ваш логін:"
+
+#: ../subscriber.php:1324
+msgid ""
+"\n"
+"Your password:"
+msgstr ""
+"\n"
+"Ваш пароль:"
+
+#: ../subscriber.php:1490
+msgid "Subscribe on newsletters"
+msgstr "Підписаний на розсилку листів"
+
+#: ../subscriber.php:1560
+msgid "user"
+msgstr "користувач"
+
+#: ../subscriber.php:1561
+msgid "users"
+msgstr "користувачі"
+
+#: ../subscriber.php:1595
+msgid "Users not found"
+msgstr "Користувачів не знайдено"
+
+#: ../subscriber.php:1605
+msgid "Name"
+msgstr "Ім'я"
+
+#: ../subscriber.php:1607
+msgid "Status"
+msgstr "Статус"
+
+#: ../subscriber.php:1665
+#: ../subscriber.php:1733
+msgid "Unsubscribe"
+msgstr "Відписатись"
+
+#: ../subscriber.php:1669
+#: ../subscriber.php:1736
+msgid "Restore From Black List"
+msgstr "Відновити з чорного списку"
+
+#: ../subscriber.php:1671
+#: ../subscriber.php:1718
+#: ../subscriber.php:1738
+msgid "Black List"
+msgstr "Чорний список"
+
+#: ../subscriber.php:1674
+#: ../subscriber.php:1741
+msgid "Restore"
+msgstr "Відновити"
+
+#: ../subscriber.php:1675
+msgid "Delete Permanently"
+msgstr "Видалити остаточно"
+
+#: ../subscriber.php:1677
+#: ../subscriber.php:1719
+msgid "Trash"
+msgstr "Корзина"
+
+#: ../subscriber.php:1715
+msgid "All"
+msgstr "Все"
+
+#: ../subscriber.php:1716
+msgid "Subscribed"
+msgstr "Підписаний"
+
+#: ../subscriber.php:1717
+msgid "Unsubscribed"
+msgstr "Відмовились від розсилки"
+
+#: ../subscriber.php:1742
+msgid "Delete Premanently"
+msgstr "Видалити остаточно"
+
+#: ../subscriber.php:1744
+msgid "Delete"
+msgstr "Видалити"
+
+#: ../subscriber.php:1837
+msgid "in blacklist"
+msgstr "у чорному списку"
+
+#: ../subscriber.php:1839
+msgid "in trash"
+msgstr "в корзині"
+
+#: ../subscriber.php:1842
+msgid "E-mail:"
+msgstr "Електронна пошта:"
+
+#: ../subscriber.php:1845
+msgid "Subscribed from"
+msgstr "Підписаний з"
+
+#: ../subscriber.php:1847
+msgid "Unsubscribed from"
+msgstr "Відписаний з"
+
+#: ../subscriber.php:1903
+msgid "users per page"
+msgstr "користувачів на сторінці"
+
+#: ../subscriber.php:1940
+msgid "Unknown action."
+msgstr "Невідома дія."
+
+#: ../subscriber.php:1941
+msgid "Select the users to apply the necessary actions."
+msgstr "Виберіть користувачів для необхідних дій."
+
+#: ../subscriber.php:1942
+msgid "No user was updated."
+msgstr "Дані жодного користувача не були змінені."
+
+#: ../subscriber.php:1984
+#, php-format
+msgid "One user was subscribed on newsletter."
+msgid_plural "%s users were subscribed on newsletter."
+msgstr[0] "Один користувач був підписаний на розсилку."
+msgstr[1] "%s користувача були підписані на розсилку."
+msgstr[2] "%s користувачів були підписані на розсилку."
+msgstr[3] "%s користувач був підписаний на розсилку."
+
+#: ../subscriber.php:1984
+#: ../subscriber.php:2024
+#: ../subscriber.php:2063
+#: ../subscriber.php:2097
+#: ../subscriber.php:2132
+#: ../subscriber.php:2191
+msgid "Undo."
+msgstr "Відмінити дію."
+
+#: ../subscriber.php:2024
+#, php-format
+msgid "One user was unsubscribed from newsletter."
+msgid_plural "%s users were unsubscribed from newsletter."
+msgstr[0] "Один користувач був видалений з розсилки."
+msgstr[1] "%s користувача були видалені з розсилки."
+msgstr[2] "%s користувачів були видалені з розсилки."
+msgstr[3] "%s користувач був видалений з розсилки."
+
+#: ../subscriber.php:2063
+#, php-format
+msgid "One user was moved to black list."
+msgid_plural "%s users were moved to black list."
+msgstr[0] "Користувача було переміщено в чорний список."
+msgstr[1] "%s користувачів було переміщено в чорний список."
+msgstr[2] "%s користувачів були переміщені в чорний список."
+msgstr[3] "%s користувача було переміщено в чорний список."
+
+#: ../subscriber.php:2097
+#, php-format
+msgid "One user was restored from black list."
+msgid_plural "%s users were restored from black list."
+msgstr[0] "Користувача було відновлено з чорного списку."
+msgstr[1] "%s користувачів було відновлено з чорного списку."
+msgstr[2] "%s користувачів було відновлено з чорного списку."
+msgstr[3] "%s користувача було відновлено з чорного списку."
+
+#: ../subscriber.php:2132
+#, php-format
+msgid "One user was moved to trash."
+msgid_plural "%s users were moved to trash."
+msgstr[0] "Користувача було переміщено в корзину."
+msgstr[1] "%s користувача були переміщені в корзину."
+msgstr[2] "%s користувачів були переміщені в корзину."
+msgstr[3] "%s користувача було переміщено в корзину."
+
+#: ../subscriber.php:2157
+#, php-format
+msgid "One user was deleted permanently."
+msgid_plural "%s users were deleted permanently."
+msgstr[0] "Користувача було видалено остаточно."
+msgstr[1] "%s користувачів було видалено остаточно."
+msgstr[2] "%s користувачів було видалено остаточно."
+msgstr[3] "%s користувача було видалено остаточно."
+
+#: ../subscriber.php:2191
+#, php-format
+msgid "One user was restored."
+msgid_plural "%s users were restored."
+msgstr[0] "Користувача було відновлено з корзини."
+msgstr[1] "%s користувача були відновлені з корзини."
+msgstr[2] "%s користувачів були відновлені з корзини."
+msgstr[3] "%s користувача було відновлено з корзини."
+
+#: ../subscriber.php:2228
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результати пошуку по &#8220;%s&#8221;"
+
+#: ../subscriber.php:2233
+msgid "search"
+msgstr "пошук"
+
+#: ../subscriber.php:2311
+msgid "Support"
+msgstr "Підтримка"
+
+#: ../subscriber.php:2377
+msgid "It's time to upgrade your <strong>Subscriber</strong> to <strong>PRO</strong> version"
+msgstr "Час оновити ваш <strong>Subscriber</strong> до <strong>PRO</strong> версії"
+
+#: ../subscriber.php:2378
+msgid "Extend standard plugin functionality with new great options"
+msgstr "Розширити стандартний функціонал плагіну новими опціями"
